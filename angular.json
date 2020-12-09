@@ -108,5 +108,8 @@
       }
     }
   },
-  "defaultProject": "ExemploPropertyBinding"
+  "defaultProject": "ExemploPropertyBinding",
+  "cli": {
+    "analytics": "f7cbd393-2094-4c06-987d-e3377d891613"
+  }
 }
